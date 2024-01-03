@@ -1,1 +1,1 @@
-# codericlatam.github.com
+# Coderic Latinoamérica
